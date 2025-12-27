@@ -25,7 +25,6 @@ This repository contains a practice data analysis project created using **Micros
 - Sales channels (Amazon, Myntra, Ajio, etc.)  
 - Product categories and revenue data  
 
----
 
 ## 🔧 Tasks Performed
 - Cleaned and structured raw sales data  
@@ -34,7 +33,6 @@ This repository contains a practice data analysis project created using **Micros
 - Built pivot tables for analysis  
 - Designed charts for business insights  
 
----
 
 ## 📌 Analysis Highlights
 
@@ -53,12 +51,10 @@ Identified states contributing the highest revenue.
 ### v) Order Status Analysis
 Analyzed delivered, cancelled, and returned orders.
 
----
 
 ## 📊 Dashboard
 An interactive Excel dashboard was created using pivot chart and slicers to summarize key insights.
 
----
 
 ## 🚀 Future Improvements
 - Power BI dashboard  
